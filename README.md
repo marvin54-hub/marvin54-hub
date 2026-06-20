@@ -65,7 +65,7 @@
 - 💼 **myDevPortfolio** — My personal developer portfolio site, built as a fully componentised React application (React.js, Vite)
 - 🗂️ **Student Management System** — Full-stack JEE web application for managing student records, grades, and timetables (JSF, EJB, MySQL)
 
-🔗 Explore all repos below, or see write-ups on my [portfolio](https://marvin54-hub.github.io).
+🔗 Explore all repos below, or see write-ups on my [portfolio]([https://github.com/marvin54-hub/myportfolio]).
 
 ---
 
